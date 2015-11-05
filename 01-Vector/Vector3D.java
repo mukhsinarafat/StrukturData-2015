@@ -36,4 +36,5 @@ public double getY() {
 public double getZ() {
     return z;
 }
+
 }
